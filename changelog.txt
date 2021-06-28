@@ -1,3 +1,7 @@
+- Changelog for v1.2.0 (2021-06-28)
+  
+    * Changed folders structure to add Web_Planning_Calendar
+    * Added calendar prototype
 
 - Changelog for v1.1.47 (2021-06-21)
   
